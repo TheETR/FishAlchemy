@@ -52,7 +52,7 @@ Obtainable via:
 - Crafting
 - Fishing progression unlocks
 - Quests and milestones
-- A **secret method** (yes, it’s a secret 😄)
+- A **secret method** (Even I don't know)
 
 ### 🌊 Events (and more)
 - Fishing events with boosted chances / special catches
@@ -67,7 +67,7 @@ Obtainable via:
 3. Start the server once to generate configs
 4. Edit configs as you like, then restart
 
-> Recommended: **Paper** (best performance)
+> Recommended: **Paper** (for best performance)
 
 ---
 
@@ -83,15 +83,6 @@ Obtainable via:
 
 ## 🧩 Commands & Permissions
 *(Placeholder – will be documented when implemented.)*
-
-Example structure:
-- `/fishalchemy` – main command  
-- `/fishdex` – view collection  
-- `/fishquest` – quest UI
-
-Permissions:
-- `fishalchemy.admin`
-- `fishalchemy.user`
 
 ---
 
