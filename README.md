@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=plastic)
 ![Paper](https://img.shields.io/badge/Paper-Supported-2ea44f?style=plastic)
 ![Spigot](https://img.shields.io/badge/Spigot-Compatible-2ea44f?style=plastic)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-blue?style=plastic)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-blue?style=plastic)
 
 ![Repo Size](https://img.shields.io/github/repo-size/TheETR/FishAlchemy?style=flat)
 ![Code Size](https://img.shields.io/github/languages/code-size/TheETR/FishAlchemy?style=flat)
