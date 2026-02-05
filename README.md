@@ -26,7 +26,7 @@ A Spigot/Paper plugin that expands **fishing + brewing** into a full progression
   - **Weight ranges**
   - **Rarities**
   - **Catch conditions** (biome, time, weather, etc.)
-  - Special variants: **Shiny**, **Radioactive**, **Rainbow**
+  - Special variants (Shiny, Radioactive, Rainbow, etc.)
 - **Fishing level system** with meaningful upgrades and unlocks
 - **Custom baits** that influence rarity, fish type, and conditions
 
