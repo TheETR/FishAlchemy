@@ -15,7 +15,7 @@
 
 A Spigot/Paper plugin that expands **fishing + brewing** into a full progression system: rare fish variants, FishDex, quests, custom baits/rods, events, and more.
 
-> **Target Minecraft version:** 1.21.1 (Paper/Spigot)  
+> **Target Minecraft version:** 1.21.11 (Paper/Spigot)  
 > **Status:** In development (no public release yet)
 
 ---
